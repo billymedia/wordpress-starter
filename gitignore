@@ -26,11 +26,10 @@
 # Ignore everything in the "plugins" directory, except the plugins you
 # specify (see the commented-out examples for hints on how to do this.)
 /wp-content/plugins/*
-!wp-content/plugins/clone-housetype-info
-!wp-content/plugins/davidsons-reports/
+!wp-content/plugins/folder/
 
 # Ignore everything in the "themes" directory, except the themes you
 # specify (see the commented-out example for a hint on how to do this.)
 /wp-content/themes/*
-!/wp-content/themes/davidsonsgroup/
+!/wp-content/themes/folder/
 /vendor/
