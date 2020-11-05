@@ -1,0 +1,12 @@
+{
+    "name": "billypatel/example",
+    "authors": [
+        {
+            "name": "Billy Patel",
+            "email": "billy@billymedia.co.uk"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
